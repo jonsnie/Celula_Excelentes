@@ -100,7 +100,7 @@ Nenhuma informação é enviada para servidores externos.
 
 Este projeto foi inspirado no livro:
 
-> **"Células Excelentes"**  
+> **"Células Excelentes - Léo Matos"**  
 
 O conteúdo e a estrutura refletem princípios abordados no livro, especialmente:
 
